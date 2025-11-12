@@ -1,15 +1,15 @@
 # Firebase Analytics (Android) · Integración Analytics
 
-Este README está pensado para **copiar y pegar** en un proyecto Android (Kotlin) y cubrir, en orden, la puesta a punto y los ejemplos de:
+Este README está pensado para **copiar y pegar** en un proyecto Android (Kotlin) y probar la integración de Firebase Analytics:
 
 - Inicialización de Firebase Analytics
+- **Eventos simples** 
 - **User ID** y **User Properties**
 - **Default Event Parameters**
-- **Eventos simples** (custom y recomendados)
-- **Eventos de e-commerce** (view_item, add_to_cart, purchase)
-- **DebugView, Logcat y ADB** (para ver eventos en tiempo real)
+- **Eventos de e-commerce** 
+- **DebugView, Logcat y ADB**
 
-> Todos los snippets usan **KTX** y la misma Activity del proyecto **Basic Views Activity** de Android Studio.
+> Todos los snippets usan **Kotlin** y la Main Activity del proyecto **Basic Views Activity** de Android Studio.
 
 ---
 
