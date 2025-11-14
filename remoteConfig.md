@@ -2,7 +2,7 @@
 
 Ejemplo simple para integrar **Remote Config** y **Firebase Analytics** en una `MainActivity`.
 
-### configuración rápida
+### Configuración rápida
 
 1. La forma que usaremos para añadir Firebase Analytics será desde Android Studio > Tools > Firebase > Remote Config > **Get started with Google Analytics**
 2. Connect your app to Firebase > Connect To Firebase > New Project or Choose Project
