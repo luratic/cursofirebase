@@ -14,7 +14,7 @@ Ejemplo simple para integrar **Remote Config** y **Firebase Analytics** en una `
 | Parámetro              | Ejemplo                          | Descripción |
 |------------------------|----------------------------------|-------------|
 | snackbar_text          | Mensaje desde Remote Config     | Texto del Snackbar |
-| ga4_remote     | variant_A                         | Parámetro dinámico enviado a GA4 |
+| ga4_remote     | valor_ejemplo                         | Parámetro dinámico enviado a GA4 |
 
 ---
 
